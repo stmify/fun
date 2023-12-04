@@ -1569,7 +1569,7 @@ display: none
 
 .filmlist .item .poster:before {
 background-color: #c9fd35;
-background-image: url(/play.svg);
+background-image: url(play.svg);
 background-size: 18px;
 background-repeat: no-repeat;
 background-position: center;
