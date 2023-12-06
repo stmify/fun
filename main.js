@@ -669,58 +669,727 @@ window.renderDATA = {
     u27as2: {
         sd32d: [
           {
-              url: "https://google.pt",
-              img: "https://streamify.gavencreative.com/wp-content/uploads/2023/02/movies_img.png.webp"
+              url: "https://gillette.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/023dd618387a4f43b6309bcef0f65c24.jpg"
           },
           {
-              url: "https://google.pt",
-              img: "https://image.tmdb.org/t/p/w1280/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg"
+              url: "https://www.ariel.co.uk/en-gb/product",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/082a0c2ab2ca224b198392adc3664627.jpg"
+          },
+          {
+              url: "https://www.charlottetilbury.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0b3298939fb4a5726756193d48585adc.jpeg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0d66b4d6a84e6ade8099a4ce19897221.png"
+          },
+          {
+              url: "https://riyadhexpo2030.sa/riyadh-expo-2030/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/151bb8fe919e503849c2e0e715f3bb08.png"
+          },
+          {
+              url: "https://www.pluralsight.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/26869e05f5d9f12ced0f40a37f15f7f3.png"
+          },
+          {
+              url: "https://aws.amazon.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/39da7473b3bbf9d5365cf970be3eb637.png"
+          },
+          {
+              url: "https://www.samsung.com/us/televisions-home-theater/tvs/samsung-neo-qled-8k/85-class-qn900c-samsung-neo-qled-8k-smart-tv-2023-qn85qn900cfxza/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/3cd8902023929f7163b0257e07c33a23.jpg"
+          },
+          {
+              url: "https://www.thinkinghuts.org/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/453bd57a11196cb11e7287c19f44c626.png"
+          },
+          {
+              url: "https://www.ibm.com/uk-en",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/482eda3b1cbce8c444e90d451182d613.gif"
+          },
+          {
+              url: "https://finalstraw.com/products/finalstraw",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/49e05a7c65cdc15cd91bcb5ec27b409b.jpg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/5a3fd19dc93d618d5fac082285cb7958.png"
+          },
+          {
+              url: "https://www.privatebank.citibank.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/643c130cdbac410e2b9f187ab06fcaa4.png"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product/by-type/gel/ariel-original-gel",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/a5c859cf33b18afedc55621f36eac707.jpg"
+          },
+          {
+              url: "https://www.magairports.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/bf11dc3c9b4e87cfb9234aa72ea2ecb1.jpeg"
+          },
+          {
+              url: "https://www.facebook.com/gaming/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/c35cbc10003c66e3e136f78fe0cac77b.png"
+          },
+          {
+              url: "https://aws.amazon.com/whitepapers/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/d2db404ed3679c63ef71520f27c980ec.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e6452e496a04186ac1bfdadd63aae79c.png"
+          },
+          {
+              url: "https://www.louisvuitton.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e99cd8b2f7d07d719c6e58a623408590.jpg"
+          },
+          {
+              url: "https://www.audible.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f0792869795a6686ea855b13a391f029.jpg"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
           }
         ],
         df2f1: [
           {
-            url: "https://google.com",
-            img: "https://www.plerdy.com/wp-content/uploads/2020/01/5-1.png"
+              url: "https://gillette.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/023dd618387a4f43b6309bcef0f65c24.jpg"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/082a0c2ab2ca224b198392adc3664627.jpg"
+          },
+          {
+              url: "https://www.charlottetilbury.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0b3298939fb4a5726756193d48585adc.jpeg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0d66b4d6a84e6ade8099a4ce19897221.png"
+          },
+          {
+              url: "https://riyadhexpo2030.sa/riyadh-expo-2030/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/151bb8fe919e503849c2e0e715f3bb08.png"
+          },
+          {
+              url: "https://www.pluralsight.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/26869e05f5d9f12ced0f40a37f15f7f3.png"
+          },
+          {
+              url: "https://aws.amazon.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/39da7473b3bbf9d5365cf970be3eb637.png"
+          },
+          {
+              url: "https://www.samsung.com/us/televisions-home-theater/tvs/samsung-neo-qled-8k/85-class-qn900c-samsung-neo-qled-8k-smart-tv-2023-qn85qn900cfxza/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/3cd8902023929f7163b0257e07c33a23.jpg"
+          },
+          {
+              url: "https://www.thinkinghuts.org/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/453bd57a11196cb11e7287c19f44c626.png"
+          },
+          {
+              url: "https://www.ibm.com/uk-en",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/482eda3b1cbce8c444e90d451182d613.gif"
+          },
+          {
+              url: "https://finalstraw.com/products/finalstraw",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/49e05a7c65cdc15cd91bcb5ec27b409b.jpg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/5a3fd19dc93d618d5fac082285cb7958.png"
+          },
+          {
+              url: "https://www.privatebank.citibank.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/643c130cdbac410e2b9f187ab06fcaa4.png"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product/by-type/gel/ariel-original-gel",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/a5c859cf33b18afedc55621f36eac707.jpg"
+          },
+          {
+              url: "https://www.magairports.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/bf11dc3c9b4e87cfb9234aa72ea2ecb1.jpeg"
+          },
+          {
+              url: "https://www.facebook.com/gaming/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/c35cbc10003c66e3e136f78fe0cac77b.png"
+          },
+          {
+              url: "https://aws.amazon.com/whitepapers/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/d2db404ed3679c63ef71520f27c980ec.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e6452e496a04186ac1bfdadd63aae79c.png"
+          },
+          {
+              url: "https://www.louisvuitton.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e99cd8b2f7d07d719c6e58a623408590.jpg"
+          },
+          {
+              url: "https://www.audible.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f0792869795a6686ea855b13a391f029.jpg"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
           }
         ],
         fr39f: [
           {
-            url: "https://google.com",
-            img: "https://www.plerdy.com/wp-content/uploads/2020/01/5-1.png"
+              url: "https://gillette.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/023dd618387a4f43b6309bcef0f65c24.jpg"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/082a0c2ab2ca224b198392adc3664627.jpg"
+          },
+          {
+              url: "https://www.charlottetilbury.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0b3298939fb4a5726756193d48585adc.jpeg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0d66b4d6a84e6ade8099a4ce19897221.png"
+          },
+          {
+              url: "https://riyadhexpo2030.sa/riyadh-expo-2030/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/151bb8fe919e503849c2e0e715f3bb08.png"
+          },
+          {
+              url: "https://www.pluralsight.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/26869e05f5d9f12ced0f40a37f15f7f3.png"
+          },
+          {
+              url: "https://aws.amazon.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/39da7473b3bbf9d5365cf970be3eb637.png"
+          },
+          {
+              url: "https://www.samsung.com/us/televisions-home-theater/tvs/samsung-neo-qled-8k/85-class-qn900c-samsung-neo-qled-8k-smart-tv-2023-qn85qn900cfxza/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/3cd8902023929f7163b0257e07c33a23.jpg"
+          },
+          {
+              url: "https://www.thinkinghuts.org/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/453bd57a11196cb11e7287c19f44c626.png"
+          },
+          {
+              url: "https://www.ibm.com/uk-en",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/482eda3b1cbce8c444e90d451182d613.gif"
+          },
+          {
+              url: "https://finalstraw.com/products/finalstraw",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/49e05a7c65cdc15cd91bcb5ec27b409b.jpg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/5a3fd19dc93d618d5fac082285cb7958.png"
+          },
+          {
+              url: "https://www.privatebank.citibank.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/643c130cdbac410e2b9f187ab06fcaa4.png"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product/by-type/gel/ariel-original-gel",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/a5c859cf33b18afedc55621f36eac707.jpg"
+          },
+          {
+              url: "https://www.magairports.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/bf11dc3c9b4e87cfb9234aa72ea2ecb1.jpeg"
+          },
+          {
+              url: "https://www.facebook.com/gaming/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/c35cbc10003c66e3e136f78fe0cac77b.png"
+          },
+          {
+              url: "https://aws.amazon.com/whitepapers/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/d2db404ed3679c63ef71520f27c980ec.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e6452e496a04186ac1bfdadd63aae79c.png"
+          },
+          {
+              url: "https://www.louisvuitton.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e99cd8b2f7d07d719c6e58a623408590.jpg"
+          },
+          {
+              url: "https://www.audible.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f0792869795a6686ea855b13a391f029.jpg"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
           }
         ],
         s93ce: [
           {
-            url: "https://google.com",
-            img: "https://www.plerdy.com/wp-content/uploads/2020/01/5-1.png"
+              url: "https://gillette.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/023dd618387a4f43b6309bcef0f65c24.jpg"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/082a0c2ab2ca224b198392adc3664627.jpg"
+          },
+          {
+              url: "https://www.charlottetilbury.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0b3298939fb4a5726756193d48585adc.jpeg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0d66b4d6a84e6ade8099a4ce19897221.png"
+          },
+          {
+              url: "https://riyadhexpo2030.sa/riyadh-expo-2030/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/151bb8fe919e503849c2e0e715f3bb08.png"
+          },
+          {
+              url: "https://www.pluralsight.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/26869e05f5d9f12ced0f40a37f15f7f3.png"
+          },
+          {
+              url: "https://aws.amazon.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/39da7473b3bbf9d5365cf970be3eb637.png"
+          },
+          {
+              url: "https://www.samsung.com/us/televisions-home-theater/tvs/samsung-neo-qled-8k/85-class-qn900c-samsung-neo-qled-8k-smart-tv-2023-qn85qn900cfxza/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/3cd8902023929f7163b0257e07c33a23.jpg"
+          },
+          {
+              url: "https://www.thinkinghuts.org/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/453bd57a11196cb11e7287c19f44c626.png"
+          },
+          {
+              url: "https://www.ibm.com/uk-en",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/482eda3b1cbce8c444e90d451182d613.gif"
+          },
+          {
+              url: "https://finalstraw.com/products/finalstraw",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/49e05a7c65cdc15cd91bcb5ec27b409b.jpg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/5a3fd19dc93d618d5fac082285cb7958.png"
+          },
+          {
+              url: "https://www.privatebank.citibank.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/643c130cdbac410e2b9f187ab06fcaa4.png"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product/by-type/gel/ariel-original-gel",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/a5c859cf33b18afedc55621f36eac707.jpg"
+          },
+          {
+              url: "https://www.magairports.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/bf11dc3c9b4e87cfb9234aa72ea2ecb1.jpeg"
+          },
+          {
+              url: "https://www.facebook.com/gaming/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/c35cbc10003c66e3e136f78fe0cac77b.png"
+          },
+          {
+              url: "https://aws.amazon.com/whitepapers/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/d2db404ed3679c63ef71520f27c980ec.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e6452e496a04186ac1bfdadd63aae79c.png"
+          },
+          {
+              url: "https://www.louisvuitton.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e99cd8b2f7d07d719c6e58a623408590.jpg"
+          },
+          {
+              url: "https://www.audible.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f0792869795a6686ea855b13a391f029.jpg"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
           }
         ],
         e2i9a: [
           {
-            url: "https://google.com",
-            img: "https://www.plerdy.com/wp-content/uploads/2020/01/5-1.png"
+              url: "https://gillette.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/023dd618387a4f43b6309bcef0f65c24.jpg"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/082a0c2ab2ca224b198392adc3664627.jpg"
+          },
+          {
+              url: "https://www.charlottetilbury.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0b3298939fb4a5726756193d48585adc.jpeg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0d66b4d6a84e6ade8099a4ce19897221.png"
+          },
+          {
+              url: "https://riyadhexpo2030.sa/riyadh-expo-2030/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/151bb8fe919e503849c2e0e715f3bb08.png"
+          },
+          {
+              url: "https://www.pluralsight.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/26869e05f5d9f12ced0f40a37f15f7f3.png"
+          },
+          {
+              url: "https://aws.amazon.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/39da7473b3bbf9d5365cf970be3eb637.png"
+          },
+          {
+              url: "https://www.samsung.com/us/televisions-home-theater/tvs/samsung-neo-qled-8k/85-class-qn900c-samsung-neo-qled-8k-smart-tv-2023-qn85qn900cfxza/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/3cd8902023929f7163b0257e07c33a23.jpg"
+          },
+          {
+              url: "https://www.thinkinghuts.org/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/453bd57a11196cb11e7287c19f44c626.png"
+          },
+          {
+              url: "https://www.ibm.com/uk-en",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/482eda3b1cbce8c444e90d451182d613.gif"
+          },
+          {
+              url: "https://finalstraw.com/products/finalstraw",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/49e05a7c65cdc15cd91bcb5ec27b409b.jpg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/5a3fd19dc93d618d5fac082285cb7958.png"
+          },
+          {
+              url: "https://www.privatebank.citibank.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/643c130cdbac410e2b9f187ab06fcaa4.png"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product/by-type/gel/ariel-original-gel",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/a5c859cf33b18afedc55621f36eac707.jpg"
+          },
+          {
+              url: "https://www.magairports.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/bf11dc3c9b4e87cfb9234aa72ea2ecb1.jpeg"
+          },
+          {
+              url: "https://www.facebook.com/gaming/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/c35cbc10003c66e3e136f78fe0cac77b.png"
+          },
+          {
+              url: "https://aws.amazon.com/whitepapers/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/d2db404ed3679c63ef71520f27c980ec.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e6452e496a04186ac1bfdadd63aae79c.png"
+          },
+          {
+              url: "https://www.louisvuitton.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e99cd8b2f7d07d719c6e58a623408590.jpg"
+          },
+          {
+              url: "https://www.audible.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f0792869795a6686ea855b13a391f029.jpg"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
           }
         ],
         pefo2: [
           {
-            url: "https://google.com",
-            img: "https://www.plerdy.com/wp-content/uploads/2020/01/5-1.png"
+              url: "https://gillette.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/023dd618387a4f43b6309bcef0f65c24.jpg"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/082a0c2ab2ca224b198392adc3664627.jpg"
+          },
+          {
+              url: "https://www.charlottetilbury.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0b3298939fb4a5726756193d48585adc.jpeg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0d66b4d6a84e6ade8099a4ce19897221.png"
+          },
+          {
+              url: "https://riyadhexpo2030.sa/riyadh-expo-2030/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/151bb8fe919e503849c2e0e715f3bb08.png"
+          },
+          {
+              url: "https://www.pluralsight.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/26869e05f5d9f12ced0f40a37f15f7f3.png"
+          },
+          {
+              url: "https://aws.amazon.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/39da7473b3bbf9d5365cf970be3eb637.png"
+          },
+          {
+              url: "https://www.samsung.com/us/televisions-home-theater/tvs/samsung-neo-qled-8k/85-class-qn900c-samsung-neo-qled-8k-smart-tv-2023-qn85qn900cfxza/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/3cd8902023929f7163b0257e07c33a23.jpg"
+          },
+          {
+              url: "https://www.thinkinghuts.org/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/453bd57a11196cb11e7287c19f44c626.png"
+          },
+          {
+              url: "https://www.ibm.com/uk-en",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/482eda3b1cbce8c444e90d451182d613.gif"
+          },
+          {
+              url: "https://finalstraw.com/products/finalstraw",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/49e05a7c65cdc15cd91bcb5ec27b409b.jpg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/5a3fd19dc93d618d5fac082285cb7958.png"
+          },
+          {
+              url: "https://www.privatebank.citibank.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/643c130cdbac410e2b9f187ab06fcaa4.png"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product/by-type/gel/ariel-original-gel",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/a5c859cf33b18afedc55621f36eac707.jpg"
+          },
+          {
+              url: "https://www.magairports.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/bf11dc3c9b4e87cfb9234aa72ea2ecb1.jpeg"
+          },
+          {
+              url: "https://www.facebook.com/gaming/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/c35cbc10003c66e3e136f78fe0cac77b.png"
+          },
+          {
+              url: "https://aws.amazon.com/whitepapers/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/d2db404ed3679c63ef71520f27c980ec.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e6452e496a04186ac1bfdadd63aae79c.png"
+          },
+          {
+              url: "https://www.louisvuitton.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e99cd8b2f7d07d719c6e58a623408590.jpg"
+          },
+          {
+              url: "https://www.audible.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f0792869795a6686ea855b13a391f029.jpg"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
           }
         ],
         rki3i: [
           {
-            url: "https://google.com",
-            img: "https://www.plerdy.com/wp-content/uploads/2020/01/5-1.png"
+              url: "https://gillette.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/023dd618387a4f43b6309bcef0f65c24.jpg"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/082a0c2ab2ca224b198392adc3664627.jpg"
+          },
+          {
+              url: "https://www.charlottetilbury.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0b3298939fb4a5726756193d48585adc.jpeg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0d66b4d6a84e6ade8099a4ce19897221.png"
+          },
+          {
+              url: "https://riyadhexpo2030.sa/riyadh-expo-2030/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/151bb8fe919e503849c2e0e715f3bb08.png"
+          },
+          {
+              url: "https://www.pluralsight.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/26869e05f5d9f12ced0f40a37f15f7f3.png"
+          },
+          {
+              url: "https://aws.amazon.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/39da7473b3bbf9d5365cf970be3eb637.png"
+          },
+          {
+              url: "https://www.samsung.com/us/televisions-home-theater/tvs/samsung-neo-qled-8k/85-class-qn900c-samsung-neo-qled-8k-smart-tv-2023-qn85qn900cfxza/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/3cd8902023929f7163b0257e07c33a23.jpg"
+          },
+          {
+              url: "https://www.thinkinghuts.org/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/453bd57a11196cb11e7287c19f44c626.png"
+          },
+          {
+              url: "https://www.ibm.com/uk-en",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/482eda3b1cbce8c444e90d451182d613.gif"
+          },
+          {
+              url: "https://finalstraw.com/products/finalstraw",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/49e05a7c65cdc15cd91bcb5ec27b409b.jpg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/5a3fd19dc93d618d5fac082285cb7958.png"
+          },
+          {
+              url: "https://www.privatebank.citibank.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/643c130cdbac410e2b9f187ab06fcaa4.png"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product/by-type/gel/ariel-original-gel",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/a5c859cf33b18afedc55621f36eac707.jpg"
+          },
+          {
+              url: "https://www.magairports.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/bf11dc3c9b4e87cfb9234aa72ea2ecb1.jpeg"
+          },
+          {
+              url: "https://www.facebook.com/gaming/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/c35cbc10003c66e3e136f78fe0cac77b.png"
+          },
+          {
+              url: "https://aws.amazon.com/whitepapers/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/d2db404ed3679c63ef71520f27c980ec.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e6452e496a04186ac1bfdadd63aae79c.png"
+          },
+          {
+              url: "https://www.louisvuitton.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e99cd8b2f7d07d719c6e58a623408590.jpg"
+          },
+          {
+              url: "https://www.audible.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f0792869795a6686ea855b13a391f029.jpg"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
           }
         ],
         gert4: [
           {
-            url: "https://google.com",
-            img: "https://www.plerdy.com/wp-content/uploads/2020/01/5-1.png"
+              url: "https://gillette.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/023dd618387a4f43b6309bcef0f65c24.jpg"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/082a0c2ab2ca224b198392adc3664627.jpg"
+          },
+          {
+              url: "https://www.charlottetilbury.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0b3298939fb4a5726756193d48585adc.jpeg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/0d66b4d6a84e6ade8099a4ce19897221.png"
+          },
+          {
+              url: "https://riyadhexpo2030.sa/riyadh-expo-2030/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/151bb8fe919e503849c2e0e715f3bb08.png"
+          },
+          {
+              url: "https://www.pluralsight.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/26869e05f5d9f12ced0f40a37f15f7f3.png"
+          },
+          {
+              url: "https://aws.amazon.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/39da7473b3bbf9d5365cf970be3eb637.png"
+          },
+          {
+              url: "https://www.samsung.com/us/televisions-home-theater/tvs/samsung-neo-qled-8k/85-class-qn900c-samsung-neo-qled-8k-smart-tv-2023-qn85qn900cfxza/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/3cd8902023929f7163b0257e07c33a23.jpg"
+          },
+          {
+              url: "https://www.thinkinghuts.org/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/453bd57a11196cb11e7287c19f44c626.png"
+          },
+          {
+              url: "https://www.ibm.com/uk-en",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/482eda3b1cbce8c444e90d451182d613.gif"
+          },
+          {
+              url: "https://finalstraw.com/products/finalstraw",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/49e05a7c65cdc15cd91bcb5ec27b409b.jpg"
+          },
+          {
+              url: "https://www.apple.com/apple-watch-series-9",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/5a3fd19dc93d618d5fac082285cb7958.png"
+          },
+          {
+              url: "https://www.privatebank.citibank.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/643c130cdbac410e2b9f187ab06fcaa4.png"
+          },
+          {
+              url: "https://www.ariel.co.uk/en-gb/product/by-type/gel/ariel-original-gel",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/a5c859cf33b18afedc55621f36eac707.jpg"
+          },
+          {
+              url: "https://www.magairports.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/bf11dc3c9b4e87cfb9234aa72ea2ecb1.jpeg"
+          },
+          {
+              url: "https://www.facebook.com/gaming/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/c35cbc10003c66e3e136f78fe0cac77b.png"
+          },
+          {
+              url: "https://aws.amazon.com/whitepapers/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/d2db404ed3679c63ef71520f27c980ec.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e6452e496a04186ac1bfdadd63aae79c.png"
+          },
+          {
+              url: "https://www.louisvuitton.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/e99cd8b2f7d07d719c6e58a623408590.jpg"
+          },
+          {
+              url: "https://www.audible.com/",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f0792869795a6686ea855b13a391f029.jpg"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
+          },
+          {
+              url: "https://www.philips.co.uk/c-m-ho/cooking/airfryer",
+              img: "https://cdn.jsdelivr.net/gh/stmify/fun/sponsors/f1544128a0155d296c4aba25d5504b27.png"
           }
         ]
     }
 }
+
 window.f9ieow = function(d) {
     var k = document.getElementById('hidden-t');
     k.dataset.dir = d;
