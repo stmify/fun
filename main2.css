@@ -1340,8 +1340,8 @@ border-radius: 3px;
 background-color: rgba(255,255,255,.1);
 }
 .page__numbers.active {
-color: #ffffff;
-background: #6c52ee;
+color: #000;
+background: #c9fd35;
 font-weight: 600;
 }
 .page__btn {
