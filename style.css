@@ -353,6 +353,39 @@ li.slide-item:hover .block-images {
     -moz-transition: all 0.45s ease 0s;
     -o-transition: all 0.45s ease 0s;
 }
+#streamify-pro {
+    background: #fff;
+    border: none;
+    position: fixed;
+border-radius: 10px;
+margin:auto;
+bottom:10px;
+left:0;
+right:0;
+z-index: 100;
+    width: 300px;
+    max-width: 80%;
+    padding: 8px 10px;
+display:flex;
+}
+
+#streamify-pro img {
+    width: 35px;
+    height: 35px;
+margin-right:10px;
+}
+
+#streamify-pro span {
+    line-height: 30px;
+}
+
+#streamify-pro button {
+    background: #c9fd35;
+border-radius: 5px;
+margin-left: auto;
+padding: 0 10px;
+border:none !important;
+}
 
 .slider-images .top-ten-slider-nav .swiper-bg:before {
     z-index: 0;
