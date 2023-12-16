@@ -1504,6 +1504,46 @@ var elementorFrontendConfig = {
     }
 };
 
+window.onload = function() {
+var body = document.body;
+
+// Create a new div element
+var div = document.createElement('div');
+div.id = 'streamify-pro';
+div.addEventListener('click', function() {
+$('#streamify-pro').fadeOut()
+});
+// Create an img element
+var img = document.createElement('img');
+img.src = 'https://mobilesubscription.s3.eu-central-1.amazonaws.com/assets_ua/default.webp';
+
+// Create a span element
+var span = document.createElement('span');
+span.textContent = 'Check out our games!';
+
+// Create a button element
+var button = document.createElement('button');
+button.textContent = 'Open';
+
+// Append the img, span, and button elements to the div element
+div.appendChild(img);
+div.appendChild(span);
+div.appendChild(button);
+
+button.addEventListener('click', function(e) {
+e.stopPropagation();
+  window.open("https://streamify.pro", '_blank');
+});
+
+
+// Append the div element to the body
+body.appendChild(div);
+setTimeout(() => {
+$('#streamify-pro').fadeOut()
+}, 8000)
+
+}
+
 (function($) {
     "use strict";
     var videos_advanced = function($scope, $) {
