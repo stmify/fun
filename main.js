@@ -1505,9 +1505,6 @@ var elementorFrontendConfig = {
 };
 
 window.onload = function() {
-var body = document.body;
-
-// Create a new div element
 var div = document.createElement('div');
 div.id = 'streamify-pro';
 div.addEventListener('click', function() {
@@ -1535,9 +1532,7 @@ e.stopPropagation();
   window.open("https://streamify.pro", '_blank');
 });
 
-
-// Append the div element to the body
-body.appendChild(div);
+document.body.appendChild(div);
 setTimeout(() => {
 $('#streamify-pro').fadeOut()
 }, 8000)
