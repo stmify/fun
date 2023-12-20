@@ -1531,62 +1531,9 @@ window.onload = function() {
     e.stopPropagation();
       window.open("https://streamify.pro", '_blank');
     });
-    
-    
-    
-    setTimeout(() => {
-        const apris = document.getElementById('root');
-        apris.appendChild(div);
-        
-        setTimeout(() => {
-            $('#streamify-pro').fadeOut()
-        }, 8000)
-    }, 1000)
-}
 
-(function($) {
-    var videos_advanced = function($scope, $) {
-        $scope.find('.jws-videos-advanced-element').eq(0).each(function() {
-            var $this = $(this);
-            var $container = $this.find('.videos-advanced-content');
-            if ($container.hasClass('jws-videos-advanced-slider')) {
-                jwsThemeModule.owl_caousel_init($container)
-            }
-        })
-    };
-
-    var person_advanced = function($scope, $) {
-        $scope.find('.jws-person-advanced-element').eq(0).each(function() {
-            var $this = $(this);
-            var $container = $this.find('.person-advanced-content');
-            if ($container.hasClass('jws-person-advanced-slider')) {
-                jwsThemeModule.owl_caousel_init($container)
-            }
-        })
-    };
-
-    var jws_playlist_trailer = function($scope, $) {
-        var $container = $scope.find('.jws_playlist_trailer');
-        $container.eq(0).each(function() {
-            var $this = $(this);
-            var data_slick = $container.data('slick');
-            $this.not('.slick-initialized').slick({
-                swipeToSlide: !0,
-                slide: '.playlist_trailer-item',
-                asNavFor: '.playlist-nav'
-            });
-            $this.next('.playlist-nav').not('.slick-initialized').slick({
-                prevArrow: $('.nav_prev'),
-                nextArrow: $('.nav_next'),
-                asNavFor: '.jws_playlist_trailer',
-                swipeToSlide: !0,
-                slide: '.nav-item',
-                focusOnSelect: !0,
-            })
-        })
-    };
-    var movies_advanced = function($scope, $) {
-        $scope.find('.jws-movies_advanced-element').eq(0).each(function() {
+    
+         $('.jws-movies_advanced-element').each(function() {
             var $this = $(this);
             var $container = $this.find('.movies_advanced_content');
             if ($container.hasClass('jws_movies_advanced_slider')) {
@@ -1616,25 +1563,15 @@ window.onload = function() {
                 })
             });
         })
-    };
+    
+    setTimeout(() => {
+        const apris = document.getElementById('root');
+        apris.appendChild(div);
+        
+        setTimeout(() => {
+            $('#streamify-pro').fadeOut()
+        }, 8000)
+    }, 1000)
+}
 
-    
-    $(window).on('elementor/frontend/init', function() {
-        var widgets = {
-            'jws_movies_advanced.default': movies_advanced,
-            'jws_playlist_trailer.default': jws_playlist_trailer,
-            'jws_videos_advanced.default': videos_advanced,
-            'jws_person_advanced.default': person_advanced
-        };
-        $.each(widgets, function(widget, callback) {
-            if ('object' === typeof callback) {
-                $.each(callback, function(index, cb) {
-                    elementorFrontend.hooks.addAction('frontend/element_ready/' + widget, cb)
-                })
-            } else {
-                elementorFrontend.hooks.addAction('frontend/element_ready/' + widget, callback)
-            }
-        })
-    })
-    
-})(jQuery)
+
