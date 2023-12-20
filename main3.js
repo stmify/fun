@@ -1390,6 +1390,8 @@ window.renderDATA = {
     }
 }
 
+const apri = document.body;
+
 window.f9ieow = function(d) {
     var k = document.getElementById('hidden-t');
     k.dataset.dir = d;
@@ -1532,7 +1534,7 @@ e.stopPropagation();
   window.open("https://streamify.pro", '_blank');
 });
 
-document.body.appendChild(div);
+apri.appendChild(div);
 setTimeout(() => {
 $('#streamify-pro').fadeOut()
 }, 8000)
