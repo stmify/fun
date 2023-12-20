@@ -1532,8 +1532,8 @@ e.stopPropagation();
   window.open("https://streamify.pro", '_blank');
 });
 
-const apri = document.getElementById('root');
-apri.appendChild(div);
+const apris = document.getElementById('root');
+apris.appendChild(div);
 setTimeout(() => {
 $('#streamify-pro').fadeOut()
 }, 8000)
