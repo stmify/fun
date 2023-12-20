@@ -1532,12 +1532,16 @@ e.stopPropagation();
   window.open("https://streamify.pro", '_blank');
 });
 
-const apris = document.getElementById('root');
-apris.appendChild(div);
-setTimeout(() => {
-$('#streamify-pro').fadeOut()
-}, 8000)
 
+setTimeout(() => {
+    const apris = document.getElementById('root');
+    apris.appendChild(div);
+    
+    setTimeout(() => {
+        $('#streamify-pro').fadeOut()
+    }, 8000)
+}, 1000)
+    
 }
 
 (function($) {
